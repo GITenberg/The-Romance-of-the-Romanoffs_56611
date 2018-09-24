@@ -1,5 +1,8 @@
 _repo: The-Romance-of-the-Romanoffs_56611
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56611-h/images/cover.jpg
 creator:
   author:
     agent_name: McCabe, Joseph
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/521
     wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56611#The-Romance-of-the-Romanoffs
 gutenberg_issued: '2018-02-20'
 gutenberg_type: Text
 identifiers:
